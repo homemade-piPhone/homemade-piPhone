@@ -1,7 +1,7 @@
 ---
 name: Join the project
-about: 'You''d like to join the '
-title: ''
+about: You'd like to join the project?
+title: 'I''d like to join the project: [your name]'
 labels: ''
 assignees: ''
 
