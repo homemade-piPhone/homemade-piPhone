@@ -8,6 +8,5 @@ assignees: ''
 ---
 
 We'd love for people to join this project.
-If you'd like to have 'write' access on the repo, please provide:
-- GitHub user:
-- Share who you are and why you're interested (optional):
+If you'd like to have 'write' access on the repo, please add your name to the title of this issue, and click "Create"
+(optional) Feel free to share who you are and why you're interested.
