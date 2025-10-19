@@ -13,3 +13,7 @@ If you'd like to join the project, [fill this form](https://github.com/homemade-
 ### Update the project website
 
 The [`docs` folder](/docs/) contains the files of the project website. See [docs/README.md](docs/README.md) for more details.
+
+### Project contributors
+
+Big thanks to all the [project contributors](https://github.com/homemade-piPhone/homemade-piPhone/graphs/contributors)!
