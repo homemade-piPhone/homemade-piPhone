@@ -1,7 +1,6 @@
 # Jekyll configuration for GitHub Pages
 title: Homemade piPhone
 description: A homemade smartphone powered by Raspberry Pi
-theme: jekyll-theme-minimal
 
 # GitHub Pages settings
 plugins:
