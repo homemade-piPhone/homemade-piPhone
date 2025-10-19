@@ -10,9 +10,11 @@ Make your own landline with a Raspberry Pi and a 3D printer.
 
 If you'd like to join the project, [fill this form](https://github.com/homemade-piPhone/homemade-piPhone/issues/new?template=join-the-project.md).
 
-### Update the project website
+### Project documentation
 
-The [`docs` folder](/docs/) contains the files of the project website. See [docs/README.md](docs/README.md) for more details.
+The project uses a [GitHub Wiki](https://github.com/homemade-piPhone/homemade-piPhone/wiki) for documentation and project management.
+
+To-do are maintained using Git Hub issues. See [wiki](https://github.com/homemade-piPhone/homemade-piPhone/wiki) for more details.
 
 ### Project contributors
 
