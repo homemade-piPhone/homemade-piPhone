@@ -4,7 +4,7 @@
 
 Make your own landline with a Raspberry Pi and a 3D printer.
 
-![homemade piPhone logo](./images/homemade%20piPhone%20logo.jpg)
+![homemade piPhone logo](./docs/images/homemade%20piPhone%20logo.jpg)
 
 ### Join the project
 
