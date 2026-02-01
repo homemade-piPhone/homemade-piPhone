@@ -8,9 +8,11 @@
 
 ## Software
 
-- voip.ms to purchase a phone line ($1/mo). Keep voip.ms account number & password in a password manager.
+- [voip.ms](https://voip.ms/) to purchase a phone line ($1/mo). Keep voip.ms account number & password in a password manager.
 
 ## Installation
+
+![IMG_1171](https://github.com/user-attachments/assets/061c2c99-c4bd-43c3-8fa6-e492367a3b43)
 
 - Connect Rotary phone to ATA, and ATA to Wifi router.
 - Once connected, dial ***02 on the phone to hear the ATA IP address.
