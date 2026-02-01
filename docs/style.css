@@ -5,6 +5,9 @@ body {
 	height: 100vh;
 	margin: 0;
 	background: #f8f9fa;
+	font-family: 'Segoe UI', Arial, sans-serif;
+	color: #0074d9;
+	font-size: 1.5rem;
 }
 
 .center-img {
@@ -21,16 +24,13 @@ body {
 }
 
 h1 {
-	font-family: 'Segoe UI', Arial, sans-serif;
 	font-size: 2rem;
 	margin-bottom: 1rem;
-	color: #0074d9;
+
 }
 
 a {
 	margin-top: 2rem;
-	font-size: 1.5rem;
+	text-decoration: underline;
 	color: #0074d9;
-	text-decoration: none;
-	font-family: 'Segoe UI', Arial, sans-serif;
 }
