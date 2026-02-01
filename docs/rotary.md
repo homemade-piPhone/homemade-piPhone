@@ -16,4 +16,4 @@
 
 - Connect Rotary phone to ATA, and ATA to Wifi router.
 - Once connected, dial ***02 on the phone to hear the ATA IP address.
-- Configure the ATA to use the voip.ms phone line (https://wiki.voip.ms/article/Grandstream_HandyTone_802_-_HT802)
+- Configure the ATA to use the voip.ms phone line: https://wiki.voip.ms/article/Grandstream_HandyTone_802_-_HT802.
