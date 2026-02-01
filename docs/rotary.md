@@ -3,7 +3,7 @@
 ## Hardware
 
 - [Rotary dial phone](https://a.co/d/fRwcqi1) ~$40.
-- Analog telephone adapter (ATA) [Grandstream HT801](https://a.co/d/1d57qn6) ~$40. Converts one analog phone line.
+- Analog telephone adapter (ATA) [Grandstream HT801v2](https://a.co/d/1d57qn6) ~$40. Converts one analog phone line.
 - Wifi router with Ethernet port (Airport Express).
 
 ## Software
