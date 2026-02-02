@@ -6,7 +6,7 @@
 
 ## Software
 
-- voip.ms to purchase a phone line ($1/mo). Keep voip.ms account number & password in a password manager.
+- [voip.ms](https://voip.ms/) to purchase a phone line ($1/mo). Keep voip.ms account number & password in a password manager.
 
 ## Installation
 
