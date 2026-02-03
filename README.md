@@ -12,7 +12,7 @@
 
 ### Phone Service providers
 
-- voip.ms: $1/month. Detailled instruction on [how to get a phone line via voip.ms](voip_ms.md).
+- voip.ms: $1/month. Detailled instruction on [how to get a phone line via voip.ms](docs/voip_ms.md).
 
 ## How does the project website work?
 
