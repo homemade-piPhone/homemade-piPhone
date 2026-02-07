@@ -10,4 +10,4 @@
 
 ### Phone Service providers
 
-- voip.ms: $1/month. Detailled instruction on [how to get a phone line via voip.ms](voip_ms.md).
+- [voip.ms](https://voip.ms/en/invite/NTE5MTQy): $1/month. Detailled instruction on [how to get a phone line via voip.ms](voip_ms.md).
