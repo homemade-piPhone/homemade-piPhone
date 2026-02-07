@@ -30,7 +30,7 @@ Detailled instructions for [ordering a phone number](https://wiki.voip.ms/articl
 
 ![choose number](https://wiki.voip.ms/w/images/thumb/5/59/Order3.JPG/750px-Order3.JPG)
 
-- Choose plan: Unless you plan to use your landline a lot, I would recommend the `Per Minute Plan`. 
+- Choose plan: Unless you plan to use your landline more than 7 hours per month, I would recommend the `Per Minute Plan`. 
 
 ![choose plan](https://wiki.voip.ms/w/images/thumb/3/3c/Order4.JPG/750px-Order4.JPG)
 
