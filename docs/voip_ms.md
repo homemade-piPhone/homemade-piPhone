@@ -18,7 +18,7 @@ Detailled instructions for [how to get started with voip.ms](https://wiki.voip.m
 
 ![add funds](https://wiki.voip.ms/w/images/thumb/a/a4/AddFunds.png/784px-AddFunds.png)
 
-### Order a number
+## Order a number
 
 Detailled instructions for [ordering a phone number](https://wiki.voip.ms/article/Order_a_DID_Number).
 
@@ -38,12 +38,15 @@ Detailled instructions for [ordering a phone number](https://wiki.voip.ms/articl
 
 ![POP](images/DID_POP.png)
 
-### Get your SIP Username and SIP password
+## Get your SIP Username and SIP password
 
 - Get your user and password in [Account Settings](https://www.voip.ms/m/settings.php): user name is composed of 6 digits.
 
 ![user_password](https://wiki.voip.ms/w/images/thumb/2/2f/Info11.jpg/784px-Info11.jpg)
 
+## Voicemail
+
+[Instructions to set up your voicemail](https://wiki.voip.ms/article/Voicemail).
 
 ## Devices?
 
