@@ -6,7 +6,7 @@
 
 ## Software
 
-- [voip.ms](https://voip.ms/) to purchase a phone line ($1/mo). See [instructions on how to get a line](voip_ms.md).
+- [voip.ms](https://voip.ms/en/invite/NTE5MTQy) to purchase a phone line ($1/mo). See [instructions on how to get a line](voip_ms.md).
 
 ## Installation
 
