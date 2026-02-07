@@ -2,7 +2,7 @@
 
 ## What is voip.ms?
 
-[voip.ms](https://voip.ms/) is a BYOD (Bring Your Own Device) phone service provider.
+[voip.ms](https://voip.ms/en/invite/NTE5MTQy) is a BYOD (Bring Your Own Device) phone service provider.
 
 A phone line cost ~$1/month.
 
