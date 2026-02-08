@@ -1,12 +1,16 @@
-# Guide to set up a wifi IP phone as a landline
+# Guide to set up a wifi IP phone as a landline <!-- omit in toc -->
+
+- [Hardware](#hardware)
+- [Software](#software)
+- [Installation](#installation)
 
 ## Hardware
 
-- Wifi IP phone: for instance, [WP816](https://a.co/d/dM5Hopl) ~$70.
+- Get a [WP816 wifi IP phone](https://a.co/d/dM5Hopl). Cost ~$70 on Amazon.
 
 ## Software
 
-- [voip.ms](https://voip.ms/en/invite/NTE5MTQy) to purchase a phone line ($1/mo). See [instructions on how to get a line](voip_ms.md).
+- Get a [phone number from voip.ms](voip_ms.md). Cost ~$1/mo.
 
 ## Installation
 
