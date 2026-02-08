@@ -10,6 +10,7 @@
 
 ## Installation
 
-- Configure the wifi IP phone to use the voip.ms phone line (https://wiki.voip.ms/article/Grandstream_WP810,_WP820,_WP822_and_WP825)
+- [Configure the wifi IP phone to use the voip.ms phone line](https://wiki.voip.ms/article/Grandstream_WP810,_WP820,_WP822_and_WP825)
+- [Setup your voicemail](https://wiki.voip.ms/article/Voicemail)
 
 ![IMG_1171](https://m.media-amazon.com/images/I/51D9EYQebJL._AC_SL1500_.jpg)
