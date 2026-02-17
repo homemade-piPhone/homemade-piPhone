@@ -32,9 +32,16 @@ Apply the following settings
 
 ## Advanced Settings
 
+<img width="1328" height="1450" alt="Screenshot 2026-02-16 at 23 13 15" src="https://github.com/user-attachments/assets/1ba048af-b5dc-4769-9f16-9e1d7318d33c" />
+
 ## Dial Plan
+
+<img width="2034" height="690" alt="Screenshot 2026-02-16 at 23 13 24" src="https://github.com/user-attachments/assets/8fb0eeeb-feb1-4ed9-8ad5-fdd168166590" />
 
 ## Hidden Number Plan
 
+<img width="1384" height="920" alt="Screenshot 2026-02-16 at 23 13 35" src="https://github.com/user-attachments/assets/47d69307-aa7b-4925-9117-da0a84ccad3b" />
+
 ## Feature Codes
 
+<img width="1376" height="1194" alt="Screenshot 2026-02-16 at 23 13 43" src="https://github.com/user-attachments/assets/a8469219-d6f0-4eb0-ac7c-b1c95df0b165" />
