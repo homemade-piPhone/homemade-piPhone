@@ -1,5 +1,7 @@
 # Configuration Grandstream WP816 for voip.ms
 
+Instructions below are based on the official guide for [WP810, WP820](https://wiki.voip.ms/article/Grandstream_WP810,_WP820,_WP822_and_WP825)
+
 Login to Grandstream WP816 admin panel (press the UP button to display the current IP address.)
 
 <img width="2868" height="670" alt="Screenshot 2026-02-16 at 23 10 34" src="https://github.com/user-attachments/assets/44d50881-2bf2-4717-91ce-a6906ca1c6fa" />
