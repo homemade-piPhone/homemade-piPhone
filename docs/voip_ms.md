@@ -44,6 +44,12 @@ Detailled instructions for [ordering a phone number](https://wiki.voip.ms/articl
 
 ![user_password](https://wiki.voip.ms/w/images/thumb/2/2f/Info11.jpg/784px-Info11.jpg)
 
+## Create a sub account for each phone number
+
+- Create sub account in [sub-account menu](https://voip.ms/m/subaccount.php)
+
+<img width="337" height="805" alt="voip ms_sub_account" src="https://github.com/user-attachments/assets/64c7a5a4-a9a6-45ce-9143-633b6df76a3d" />
+
 ## Voicemail
 
 [Instructions to set up your voicemail](https://wiki.voip.ms/article/Voicemail).
